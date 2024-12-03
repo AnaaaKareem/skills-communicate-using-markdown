@@ -6,8 +6,8 @@ print("Hello World")
 ```
 ### Third
 - [x] one
-- [] two
-- [] three
+- [ ] two
+- [ ] three
 #### Forth
 ##### Fifth
 ###### Sixth
