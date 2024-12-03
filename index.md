@@ -5,9 +5,9 @@
 print("Hello World")
 ```
 ### Third
-- [x] one
-- [ ] two
-- [ ] three
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 #### Forth
 ##### Fifth
 ###### Sixth
